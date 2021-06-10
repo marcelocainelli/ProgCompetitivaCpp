@@ -1,0 +1,12 @@
+Dados Primitivos
+
+Nome        Descrição                   Tamanho         Faixa de Valores
+
+bool        Valor booleano              1 byte          true ou false
+char        Caracter ou inteiro pequeno 1 byte          De -128 a 127
+short int   Inteiro Curto               2 bytes         De -32768 a 32767
+int         Inteiro                     4 bytes         De -2147483648 a 2147483647
+                                                        De -9223372036854775808
+long long   Inteiro Grande              8 bytes         a 9223372036854775807    
+float       Número de ponto flutuante   4 bytes         3.4e +/- 38 (7 dígitos)
+double      Float con dupla precisão    8 bytes         1.7e +/- 308 (15 dígitos)

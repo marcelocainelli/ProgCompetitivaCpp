@@ -1,0 +1,27 @@
+6
+12
+23
+14
+11
+9
+19
+
+n = valores a serem lidos
+
+
+5
+12
+11
+3
+4
+7
+
+
+
+//apresente: 
+
+soma  
+media  
+maior valor
+
+Media = somatório dos valores / quantidade de valores

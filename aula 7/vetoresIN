@@ -1,0 +1,36 @@
+3 4
+23  10  4  0 
+21  12  1  1 
+56  23  6  1
+
+4
+1 5
+2 4
+2 3
+3 6
+
+    cin >> vetorA[n] >> vetorB[n];
+    soma[n] = vetorA[n] + vetorB[n];
+
+saida: 
+
+soma = [6 6 5 9]
+
+
+5
+3 9
+2 3
+4 3
+5 2
+5 1
+
+
+vetorA = [1 2 2 3]
+vetorB = [5 4 3 6]
+          0 1 2 3
+
+soma[0] = vetorA[0] + vetorB[0];
+
+soma = [6 6 5 9]
+
+
